@@ -1,0 +1,1 @@
+C:\Users\Sarang\ Dutta\documents\rust_projects\minigrep\target\debug\minigrep.exe: C:\Users\Sarang\ Dutta\documents\rust_projects\minigrep\src\lib.rs C:\Users\Sarang\ Dutta\documents\rust_projects\minigrep\src\main.rs
