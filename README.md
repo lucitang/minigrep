@@ -1,2 +1,1 @@
-minigrep -> mini global;y search a regular expression and print 
-made with cargo and rust 
+A miniature version of grep("global regular expression print") made with rust
